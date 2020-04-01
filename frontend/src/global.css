@@ -27,6 +27,21 @@ form input{
   color: #333;
   border-radius: 8px;
   padding:  0 24px;
+  /* margin-top: 5px;
+  margin-bottom: 5px; */
+}
+
+form textarea{
+  width: 100%;
+  min-height: 140px;
+  color: #333;
+  border-radius: 8px;
+  padding:  0 24px;
+  resize: vertical;
+  /* margin-top: 5px;
+  margin-bottom: 5px; */
+  padding: 16px 24px;
+  line-height: 24px;
 }
 
 .button{
